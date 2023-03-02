@@ -8,3 +8,6 @@ Display each of these amounts
 
 
 # This is a requirement for paasing the azubi github 
+
+# Author
+Richmond Elikplim Yao Abake
